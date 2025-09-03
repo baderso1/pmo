@@ -1,0 +1,89 @@
+{
+    "6003dcf1-591c-4724-8d02-b03f8774511e": {
+        "tournament_id": "6003dcf1-591c-4724-8d02-b03f8774511e",
+        "host_id": "1021410672803844129",
+        "title": "pmo",
+        "description": "",
+        "status": "active",
+        "created_at": "2025-08-13T18:31:24.383288",
+        "winner_id": null,
+        "reward_data": {},
+        "participants": [
+            {
+                "tournament_id": "6003dcf1-591c-4724-8d02-b03f8774511e",
+                "participant_id": "1021410672803844129",
+                "joined_at": "2025-08-13T18:31:29.467573",
+                "is_bot": 0,
+                "bot_name": null
+            },
+            {
+                "tournament_id": "6003dcf1-591c-4724-8d02-b03f8774511e",
+                "participant_id": "777694378071818281",
+                "joined_at": "2025-08-13T18:32:06.818946",
+                "is_bot": 0,
+                "bot_name": null
+            }
+        ]
+    },
+    "444562c9-52f2-492c-904d-309a254fa1e3": {
+        "id": "444562c9-52f2-492c-904d-309a254fa1e3",
+        "host_id": 1021410672803844129,
+        "title": "pmo",
+        "description": "",
+        "status": "completed",
+        "participants": [
+            1021410672803844129,
+            1092887718909968435
+        ],
+        "created_at": "2025-08-13T16:53:39.163620",
+        "winner_id": 1021410672803844129
+    },
+    "5af9a338-990c-42fc-9a96-9cad8acd03ed": {
+        "id": "5af9a338-990c-42fc-9a96-9cad8acd03ed",
+        "host_id": 1021410672803844129,
+        "title": "PMO",
+        "description": "",
+        "status": "completed",
+        "participants": [
+            1092887718909968435,
+            1021410672803844129
+        ],
+        "created_at": "2025-08-13T19:16:56.007678",
+        "winner_id": 1021410672803844129
+    },
+    "b279ca61-a18a-48a9-8b81-3589e3c287be": {
+        "id": "b279ca61-a18a-48a9-8b81-3589e3c287be",
+        "host_id": 1021410672803844129,
+        "title": "pmo",
+        "description": "",
+        "status": "recruiting",
+        "participants": [
+            777694378071818281,
+            926333817961201704
+        ],
+        "created_at": "2025-08-13T20:03:38.182643",
+        "winner_id": null,
+        "rewards": {
+            "money": 10000,
+            "xp": 500
+        }
+    },
+    "6c5cd1d2-6844-4f2e-87ef-523bc5b4f10b": {
+        "id": "6c5cd1d2-6844-4f2e-87ef-523bc5b4f10b",
+        "host_id": 1021410672803844129,
+        "title": "pmo",
+        "description": "",
+        "status": "completed",
+        "participants": [
+            777694378071818281,
+            926333817961201704,
+            1021410672803844129
+        ],
+        "created_at": "2025-08-13T20:09:39.529485",
+        "winner_id": 1021410672803844129,
+        "rewards": {
+            "money": 10000,
+            "xp": 500
+        }
+    }
+}

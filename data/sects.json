@@ -1,0 +1,41 @@
+{
+    "Great Sea": {
+        "leader": 926333817961201704,
+        "members": [
+            926333817961201704
+        ],
+        "invites": [],
+        "created_at": "2025-08-16T00:36:49.753501",
+        "privacy": "public",
+        "path": "righteous",
+        "description": "Sect for worshippers of the Sea",
+        "total_wealth": 3110671,
+        "sect_cash": 3000000,
+        "bank": 0,
+        "positions": {
+            "926333817961201704": "sect leader"
+        }
+    },
+    "Enten": {
+        "leader": 684705979992244225,
+        "members": [
+            684705979992244225,
+            1021104907291459594
+        ],
+        "invites": [],
+        "created_at": "2025-08-16T15:18:42.185359",
+        "privacy": "public",
+        "description": "Sect that defines justice and virtue.",
+        "path": "righteous",
+        "bank": 1000000,
+        "bank_transactions": [
+            {
+                "type": "deposit",
+                "amount": 1000000,
+                "user": "Duke Ros",
+                "time": "2025-08-16 15:23"
+            }
+        ],
+        "total_wealth": 1514487
+    }
+}

@@ -1,0 +1,105 @@
+{
+  "411971768614649859": {
+    "cash": 0,
+    "bank": 0,
+    "job": null,
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": []
+  },
+  "1021410672803844129": {
+    "cash": 1000000,
+    "bank": 0,
+    "job": null,
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": [],
+    "sect": "Wuji Cult",
+    "last_collects": {
+      "1346288969851342939": "2025-08-11T15:55:02.107164"
+    }
+  },
+  "1021104907291459594": {
+    "cash": 0,
+    "bank": 0,
+    "job": "Great Immortal",
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": [],
+    "last_job": "2025-08-11T14:11:19.009162"
+  },
+  "1293607396425465900": {
+    "cash": 0,
+    "bank": 0,
+    "job": null,
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": []
+  },
+  "1404104790249836674": {
+    "cash": 99999,
+    "bank": 0,
+    "job": null,
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": []
+  },
+  "1181142050075320433": {
+    "cash": 0,
+    "bank": 0,
+    "job": null,
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": []
+  },
+  "700351954718556170": {
+    "cash": 0,
+    "bank": 1000232,
+    "job": null,
+    "last_cultivate": "2025-08-11T14:54:28.663701",
+    "last_collect": null,
+    "inventory": []
+  },
+  "722455265932345395": {
+    "cash": 0,
+    "bank": 0,
+    "job": null,
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": []
+  },
+  "300176089429311498": {
+    "cash": 0,
+    "bank": 0,
+    "job": null,
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": []
+  },
+  "821933965325631548": {
+    "cash": 0,
+    "bank": 0,
+    "job": null,
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": []
+  },
+  "1092887718909968435": {
+    "cash": 0,
+    "bank": 0,
+    "job": "Great Immortal",
+    "last_cultivate": "2025-08-11T15:43:17.678479",
+    "last_collect": null,
+    "inventory": [],
+    "last_collects": {},
+    "last_rob": "2025-08-11T15:51:20.508852"
+  },
+  "611162028765216784": {
+    "cash": 0,
+    "bank": 0,
+    "job": null,
+    "last_cultivate": null,
+    "last_collect": null,
+    "inventory": []
+  }
+}

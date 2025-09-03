@@ -1,0 +1,395 @@
+{
+    "axis of wealth": {
+        "price": 400000,
+        "description": "The axis of wealth helps you along in your cultivation with 5% EXP boost",
+        "stock": 999,
+        "min_rank": 2,
+        "rarity": "rare",
+        "type": "consumable",
+        "usable": true,
+        "consumable": true,
+        "effects": {
+            "xp_boost": 5000
+        },
+        "max_stock": 10
+    },
+    "axis of health": {
+        "price": 400000,
+        "description": "The Axis of health gives a permanent xp boost of 5% and grants the Health Master role.",
+        "stock": 10,
+        "min_rank": 0,
+        "rarity": "legendary",
+        "type": "consumable",
+        "usable": true,
+        "consumable": true,
+        "role_action": "add",
+        "role_id": 1360668572614918325,
+        "effects": {
+            "xp_boost": 10000
+        },
+        "max_stock": 10
+    },
+    "axis of love and virtue": {
+        "price": 500000,
+        "description": "The axis of love and virtue gives you a collect income of 2 thousand and grants the Virtue Master role.",
+        "stock": 10,
+        "min_rank": 0,
+        "rarity": "legendary",
+        "type": "consumable",
+        "usable": true,
+        "consumable": true,
+        "role_action": "add",
+        "role_id": 1360668572614918325,
+        "money_action": "add",
+        "money_amount": 2000,
+        "collect_cooldown_hours": 24,
+        "effects": {
+            "money_boost": 5000
+        },
+        "max_stock": 10
+    },
+    "axis of longevity": {
+        "price": 450000,
+        "description": "An ancient axis said to extend one\u2019s cultivation longevity and grants the Longevity Master role.",
+        "stock": 10,
+        "min_rank": 0,
+        "rarity": "legendary",
+        "type": "consumable",
+        "usable": true,
+        "consumable": true,
+        "role_action": "add",
+        "role_id": 1360668572614918325,
+        "effects": {
+            "xp_boost": 7500
+        },
+        "max_stock": 10
+    },
+    "spirit_potion": {
+        "price": 1000,
+        "description": "A potion that grants immediate XP boost",
+        "stock": 100,
+        "min_rank": 0,
+        "rarity": "common",
+        "usable": true,
+        "consumable": true,
+        "effects": {
+            "xp_boost": 1000
+        },
+        "max_stock": 100
+    },
+    "golden_apple": {
+        "price": 5000,
+        "description": "A magical apple that grants money when consumed",
+        "stock": 100,
+        "min_rank": 0,
+        "rarity": "uncommon",
+        "usable": true,
+        "consumable": true,
+        "effects": {
+            "money_boost": 2500
+        },
+        "max_stock": 100
+    },
+    "cultivation_elixir": {
+        "price": 15000,
+        "description": "An elixir that provides temporary cultivation boost",
+        "stock": 50,
+        "min_rank": 1,
+        "rarity": "rare",
+        "usable": true,
+        "consumable": true,
+        "effects": {
+            "temp_boost": {
+                "type": "cultivation",
+                "value": 10,
+                "duration": 24
+            }
+        },
+        "max_stock": 50
+    },
+    "lucky_charm": {
+        "price": 25000,
+        "description": "A charm that provides temporary gambling boost",
+        "stock": 50,
+        "min_rank": 2,
+        "rarity": "rare",
+        "usable": true,
+        "consumable": true,
+        "effects": {
+            "temp_boost": {
+                "type": "gambling",
+                "value": 5,
+                "duration": 12
+            }
+        },
+        "max_stock": 50
+    },
+    "immortal_pearl": {
+        "price": 100000,
+        "description": "A rare pearl that grants significant XP and money",
+        "stock": 25,
+        "min_rank": 3,
+        "rarity": "legendary",
+        "usable": true,
+        "consumable": true,
+        "effects": {
+            "xp_boost": 10000,
+            "money_boost": 25000
+        },
+        "max_stock": 25
+    },
+    "eternal_crystal": {
+        "price": 500000,
+        "description": "A crystal that provides permanent stat boost (non-consumable)",
+        "stock": 25,
+        "min_rank": 4,
+        "rarity": "mythic",
+        "usable": true,
+        "consumable": false,
+        "effects": {
+            "temp_boost": {
+                "type": "all_gains",
+                "value": 5,
+                "duration": 168
+            }
+        },
+        "max_stock": 25
+    },
+    "core formation fox demon": {
+        "price": 10000,
+        "description": "No description",
+        "stock": 998,
+        "min_rank": 0,
+        "rarity": "common",
+        "min_rarity": "common",
+        "max_rarity_chance": 0,
+        "spirit_animal": true,
+        "activate_on_buy": false,
+        "win_chance": 50,
+        "max_stock": 100
+    },
+    "reroll": {
+        "price": 100000,
+        "description": "A mystical scroll that grants 1 immortal art reroll when consumed",
+        "stock": 50,
+        "min_rank": 0,
+        "rarity": "rare",
+        "type": "consumable",
+        "usable": true,
+        "consumable": true,
+        "effects": {
+            "immortal_art_reroll": 1
+        },
+        "max_stock": 50
+    },
+    "iron_sword": {
+        "price": 5000,
+        "description": "A basic iron sword with balanced stats",
+        "stock": 100,
+        "min_rank": 0,
+        "rarity": "common",
+        "type": "weapon",
+        "weapon_type": "sword",
+        "damage": 15,
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "steel_katana": {
+        "price": 15000,
+        "description": "A sharp steel katana with increased critical chance",
+        "stock": 100,
+        "min_rank": 1,
+        "rarity": "uncommon",
+        "type": "weapon",
+        "weapon_type": "sword",
+        "damage": 25,
+        "critical_chance": 5,
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "thunder_hammer": {
+        "price": 50000,
+        "description": "A powerful hammer that deals massive damage",
+        "stock": 50,
+        "min_rank": 2,
+        "rarity": "rare",
+        "type": "weapon",
+        "weapon_type": "hammer",
+        "damage": 40,
+        "usable": false,
+        "consumable": false,
+        "max_stock": 50
+    },
+    "leather_vest": {
+        "price": 3000,
+        "description": "Light leather armor providing basic protection",
+        "stock": 100,
+        "min_rank": 0,
+        "rarity": "common",
+        "type": "armor",
+        "armor_type": "leather",
+        "health": 25,
+        "defense": 5,
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "chainmail_armor": {
+        "price": 12000,
+        "description": "Medium chainmail armor with good defense",
+        "stock": 100,
+        "min_rank": 1,
+        "rarity": "uncommon",
+        "type": "armor",
+        "armor_type": "chainmail",
+        "health": 60,
+        "defense": 15,
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "plate_armor": {
+        "price": 35000,
+        "description": "Heavy plate armor with maximum protection",
+        "stock": 50,
+        "min_rank": 2,
+        "rarity": "rare",
+        "type": "armor",
+        "armor_type": "plate",
+        "health": 100,
+        "defense": 25,
+        "usable": false,
+        "consumable": false,
+        "max_stock": 50
+    },
+    "luck_charm": {
+        "price": 8000,
+        "description": "A small charm that increases luck",
+        "stock": 100,
+        "min_rank": 0,
+        "rarity": "common",
+        "type": "artifact",
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "strength_ring": {
+        "price": 20000,
+        "description": "A ring that enhances physical strength",
+        "stock": 100,
+        "min_rank": 1,
+        "rarity": "uncommon",
+        "type": "artifact",
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "wisdom_amulet": {
+        "price": 45000,
+        "description": "An amulet that grants wisdom and insight",
+        "stock": 50,
+        "min_rank": 2,
+        "rarity": "rare",
+        "type": "artifact",
+        "usable": false,
+        "consumable": false,
+        "max_stock": 50
+    },
+    "iron_ore": {
+        "price": 500,
+        "description": "Basic iron ore for crafting",
+        "stock": 200,
+        "min_rank": 0,
+        "rarity": "common",
+        "type": "ore",
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "copper_ore": {
+        "price": 800,
+        "description": "Copper ore with good conductivity",
+        "stock": 150,
+        "min_rank": 0,
+        "rarity": "uncommon",
+        "type": "ore",
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "silver_ore": {
+        "price": 2000,
+        "description": "Precious silver ore",
+        "stock": 75,
+        "min_rank": 1,
+        "rarity": "rare",
+        "type": "ore",
+        "usable": false,
+        "consumable": false,
+        "max_stock": 50
+    },
+    "gemstone": {
+        "price": 1000,
+        "description": "A beautiful gemstone with value",
+        "stock": 100,
+        "min_rank": 0,
+        "rarity": "common",
+        "type": "loot",
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "ancient_coin": {
+        "price": 3000,
+        "description": "An ancient coin with historical value",
+        "stock": 100,
+        "min_rank": 1,
+        "rarity": "uncommon",
+        "type": "loot",
+        "usable": false,
+        "consumable": false,
+        "max_stock": 100
+    },
+    "crystal_shard": {
+        "price": 8000,
+        "description": "A crystal shard with magical properties",
+        "stock": 50,
+        "min_rank": 2,
+        "rarity": "rare",
+        "type": "loot",
+        "usable": false,
+        "consumable": false,
+        "max_stock": 50
+    },
+    "healing_pill": {
+        "price": 1500,
+        "description": "A pill that restores health in PvP battles",
+        "stock": 100,
+        "min_rank": 0,
+        "rarity": "common",
+        "type": "consumable",
+        "usable": true,
+        "consumable": true,
+        "effects": {
+            "heal": 25
+        },
+        "max_stock": 50
+    },
+    "strength_potion": {
+        "price": 5000,
+        "description": "A potion that temporarily increases strength",
+        "stock": 100,
+        "min_rank": 1,
+        "rarity": "uncommon",
+        "type": "consumable",
+        "usable": true,
+        "consumable": true,
+        "effects": {
+            "strength_boost": 5,
+            "duration": 3600
+        },
+        "max_stock": 100
+    }
+}

@@ -1,0 +1,2049 @@
+{
+    "696055299907518556": {
+        "inventory": [
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-19T13:25:00.927141+00:00"
+            },
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-19T13:53:57.214092+00:00"
+            }
+        ],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "message_count": 27,
+        "sect_xp": 354,
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "available_attribute_points": 0,
+        "corrected_hp": 100
+    },
+    "1171729634459660328": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 4,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1021410672803844129": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 45,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100,
+        "available_attribute_points": 1
+    },
+    "1265369611986014314": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 65,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "611162028765216784": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 13,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "sect": null,
+        "sect_rank": null,
+        "selected_job": null,
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "776007357859495956": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 6,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1272528070586400778": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 1,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "709085632852394163": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 15,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "850256715110809610": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 1,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1021104907291459594": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [
+            {
+                "name": "Mithril Ore",
+                "type": "ore",
+                "rarity": "uncommon",
+                "mined_at": "2025-08-19T14:42:33.020508+00:00"
+            },
+            {
+                "name": "Heart Path Pills",
+                "rarity": "rare",
+                "type": "artifact",
+                "description": "A rare quality Heart Path Pills found during cultivation",
+                "value": 5000,
+                "added_by": 1021104907291459594,
+                "added_at": 1755614590,
+                "source": "cultivation"
+            }
+        ],
+        "message_count": 86,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                {
+                    "name": "Crystal Sight",
+                    "rarity": "common"
+                },
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "sect_xp": 903,
+        "last_cultivate_timestamp": 1755614590,
+        "sect": null,
+        "sect_rank": null,
+        "selected_job": null,
+        "corrected_hp": 100
+    },
+    "1175886416035713157": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 47,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1158181620482846831": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 40,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                {
+                    "name": "Golden Grain",
+                    "rarity": "common"
+                },
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100,
+        "last_daily": 1756220470
+    },
+    "1211469943846211596": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [
+            {
+                "name": "Stone Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-19T12:37:21.414760+00:00"
+            },
+            {
+                "name": "Copper Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-24T13:38:52.809274+00:00"
+            }
+        ],
+        "message_count": 21,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                {
+                    "name": "Silver Wind",
+                    "rarity": "common"
+                },
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "sect_xp": 1169,
+        "last_cultivate_timestamp": 1755607036,
+        "sect": null,
+        "sect_rank": null,
+        "selected_job": null,
+        "corrected_hp": 100
+    },
+    "1220443113819082914": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [
+            {
+                "name": "Coal Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-19T12:37:50.661189+00:00"
+            }
+        ],
+        "message_count": 4,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "862701067576541185": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-19T13:28:54.108379+00:00"
+            },
+            {
+                "name": "Coal Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-26T15:10:44.525998+00:00"
+            },
+            {
+                "name": "Martial Scroll",
+                "type": "artifact",
+                "rarity": "common",
+                "amount": 1,
+                "abilities": [],
+                "value": 316,
+                "description": "A common quality Martial Scroll found during cultivation",
+                "source": "cultivation",
+                "added_at": 1756221097
+            }
+        ],
+        "message_count": 102,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                {
+                    "name": "Treasure Seeker",
+                    "rarity": "uncommon"
+                },
+                null,
+                null
+            ],
+            "rerolls": 6,
+            "unlocked_slots": 1
+        },
+        "sect": null,
+        "sect_rank": null,
+        "selected_job": null,
+        "corrected_hp": 100,
+        "sect_xp": 1383,
+        "last_cultivate_timestamp": 1756221097,
+        "last_expedition": 1756221101,
+        "last_daily": 1756221134
+    },
+    "1334607345598074912": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 34,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1206820285995814942": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 1,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "722455265932345395": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-19T14:42:26.197293+00:00"
+            },
+            {
+                "name": "Coal Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-24T13:38:56.509148+00:00"
+            },
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-26T16:35:21.899912+00:00"
+            }
+        ],
+        "message_count": 157,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "sect": null,
+        "sect_rank": null,
+        "selected_job": null,
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100,
+        "last_collects": {
+            "1355119735154540552": 1756226090,
+            "1360668572614918325": 1756226090
+        },
+        "sect_xp": 309,
+        "last_expedition": 1756226095
+    },
+    "717843319916462242": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 33,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "684705979992244225": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [
+            {
+                "name": "Tin Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-19T13:28:48.039971+00:00"
+            }
+        ],
+        "message_count": 10,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                {
+                    "name": "Phoenix Wisdom",
+                    "rarity": "epic"
+                },
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "554029760867729419": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 1,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "557096833302659075": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 2,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1378767851057582191": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 2,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "985895823936200715": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 2,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "821933965325631548": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 48,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "777694378071818281": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 6,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1092887718909968435": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [
+            {
+                "name": "Nickel Ore",
+                "type": "ore",
+                "rarity": "rare",
+                "mined_at": "2025-08-26T15:10:39.370221+00:00"
+            }
+        ],
+        "message_count": 25,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1033266104321191988": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 1,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "388279507406159891": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 3,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1133865181978562580": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 5,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "904363835228586065": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 3,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "451059184960536577": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 1,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1014912034166558760": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 5,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "sect": null,
+        "sect_rank": null,
+        "selected_job": null,
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "729620970037313607": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 18,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "1394417055683579995": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 2,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "12345": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [
+            {
+                "name": "Test Sword",
+                "rarity": "common"
+            }
+        ],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "cash": 100,
+            "bank": 50
+        },
+        "immortal_arts": {
+            "slots": [
+                {
+                    "name": "Silver Wind",
+                    "rarity": "common"
+                },
+                null,
+                null
+            ],
+            "rerolls": 8,
+            "unlocked_slots": 1
+        },
+        "test": "data",
+        "sect": null,
+        "sect_rank": null,
+        "selected_job": null,
+        "corrected_hp": 100
+    },
+    "383703415596777483": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "selected_job": null,
+        "sect": null,
+        "sect_rank": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 2,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "348398570879057920": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "selected_job": null,
+        "sect": null,
+        "sect_rank": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 2,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "668920442299613215": {
+        "cash": 0,
+        "bank": 0,
+        "job": null,
+        "selected_job": null,
+        "sect": null,
+        "sect_rank": null,
+        "last_cultivate": null,
+        "last_collect": null,
+        "inventory": [],
+        "message_count": 11,
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "corrected_hp": 100
+    },
+    "926333817961201704": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 15,
+        "last_collects": {
+            "1360668572614918325": 1755805846
+        },
+        "corrected_hp": 100
+    },
+    "682638477355122759": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 3,
+        "corrected_hp": 100
+    },
+    "99999": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                {
+                    "name": "Vital Essence",
+                    "rarity": "common"
+                },
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "corrected_hp": 100
+    },
+    "1130940386139979786": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 3,
+        "corrected_hp": 100
+    },
+    "22222": {
+        "inventory": [
+            {
+                "name": "Common Sword",
+                "type": "weapon",
+                "rarity": "common",
+                "damage": 10
+            },
+            {
+                "name": "Rare Shield",
+                "type": "armor",
+                "rarity": "rare",
+                "health": 50
+            },
+            {
+                "name": "Epic Staff",
+                "type": "weapon",
+                "rarity": "epic",
+                "damage": 25
+            },
+            {
+                "name": "Legendary Ring",
+                "type": "artifact",
+                "rarity": "legendary",
+                "abilities": [
+                    "fire",
+                    "ice"
+                ]
+            },
+            {
+                "name": "Divine Amulet",
+                "type": "artifact",
+                "rarity": "divine",
+                "abilities": [
+                    "immortality"
+                ]
+            }
+        ],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "corrected_hp": 100
+    },
+    "11111": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "corrected_hp": 100
+    },
+    "637292689494114324": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 2,
+        "corrected_hp": 100
+    },
+    "775422184297988126": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 1,
+        "corrected_hp": 100
+    },
+    "300176089429311498": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 4,
+        "corrected_hp": 100
+    },
+    "929413772026724354": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 1,
+        "corrected_hp": 100
+    },
+    "827400323151953941": {
+        "inventory": [
+            {
+                "name": "Stone Ore",
+                "type": "ore",
+                "rarity": "common",
+                "mined_at": "2025-08-24T13:39:04.289979+00:00"
+            }
+        ],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 4,
+        "corrected_hp": 100
+    },
+    "226399061786361857": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 2,
+        "corrected_hp": 100
+    },
+    "88888": {
+        "inventory": [
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "description": "A Iron Ore ore",
+                "amount": 1
+            },
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "description": "A Iron Ore ore",
+                "amount": 1
+            },
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "description": "A Iron Ore ore",
+                "amount": 1
+            },
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "description": "A Iron Ore ore",
+                "amount": 1
+            },
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "description": "A Iron Ore ore",
+                "amount": 1
+            }
+        ],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "corrected_hp": 100
+    },
+    "77777": {
+        "inventory": [
+            {
+                "name": "Iron Ore",
+                "type": "ore",
+                "rarity": "common",
+                "description": "A Iron Ore ore",
+                "amount": 1
+            },
+            {
+                "name": "Steel Ore",
+                "type": "ore",
+                "rarity": "common",
+                "description": "A Steel Ore ore",
+                "amount": 1
+            },
+            {
+                "name": "Steel Ore",
+                "type": "ore",
+                "rarity": "common",
+                "description": "A Steel Ore ore",
+                "amount": 1
+            }
+        ],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "corrected_hp": 100
+    },
+    "886531627377897533": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 1,
+        "corrected_hp": 100
+    },
+    "398160251045675028": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 3,
+        "corrected_hp": 100
+    },
+    "1392601921784774766": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 3
+    },
+    "1055950716549734444": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 3
+    },
+    "1371452414527279157": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 8
+    },
+    "1024935397370896404": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 7
+    },
+    "1155755942047121458": {
+        "inventory": [
+            {
+                "name": "Tin Ore",
+                "type": "ore",
+                "rarity": "common",
+                "amount": 1,
+                "description": "A common quality ore",
+                "value": 80,
+                "added_at": 1756221087
+            }
+        ],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                {
+                    "name": "Copper Mind",
+                    "rarity": "common"
+                },
+                null,
+                null
+            ],
+            "rerolls": 5,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 18,
+        "last_daily": 1756220953
+    },
+    "985217795610538036": {
+        "inventory": [],
+        "equipment": {
+            "weapon": null,
+            "armor": null,
+            "artifacts": []
+        },
+        "attributes": {
+            "strength": 0,
+            "defence": 0,
+            "longevity": 0,
+            "luck": 0
+        },
+        "immortal_arts": {
+            "slots": [
+                null,
+                null,
+                null
+            ],
+            "rerolls": 3,
+            "unlocked_slots": 1
+        },
+        "cash": 0,
+        "bank": 0,
+        "message_count": 2
+    }
+}

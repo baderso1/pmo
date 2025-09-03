@@ -1,0 +1,131 @@
+{
+    "items": [
+        {
+            "type": "weapon",
+            "weapon_type": "whip",
+            "rarity": "common",
+            "damage": 8,
+            "emoji": "\ud83e\udea2",
+            "name": "Common Whip",
+            "description": "Fast weapon with area damage",
+            "value": 156,
+            "created_at": "2025-08-16T14:17:41.234146+00:00",
+            "market_id": "market_0",
+            "cost": 11033,
+            "stock": 1
+        },
+        {
+            "name": "Healing Elixir",
+            "type": "consumable",
+            "rarity": "uncommon",
+            "description": "A powerful uncommon consumable",
+            "market_id": "market_1",
+            "cost": 20998,
+            "stock": 1,
+            "value": 20998
+        },
+        {
+            "name": "Enchanted Crystal",
+            "type": "loot",
+            "rarity": "uncommon",
+            "description": "A valuable uncommon loot item",
+            "market_id": "market_2",
+            "cost": 35354,
+            "stock": 3,
+            "value": 35354
+        },
+        {
+            "name": "Mithril Ore",
+            "type": "ore",
+            "rarity": "uncommon",
+            "description": "A uncommon quality ore",
+            "market_id": "market_3",
+            "cost": 44957,
+            "stock": 1,
+            "value": 44957
+        },
+        {
+            "name": "Steel Ore",
+            "type": "ore",
+            "rarity": "uncommon",
+            "description": "A uncommon quality ore",
+            "market_id": "market_4",
+            "cost": 49149,
+            "stock": 2,
+            "value": 49149
+        },
+        {
+            "name": "Healing Elixir",
+            "type": "consumable",
+            "rarity": "uncommon",
+            "description": "A powerful uncommon consumable",
+            "market_id": "market_5",
+            "cost": 17010,
+            "stock": 2,
+            "value": 17010
+        },
+        {
+            "type": "weapon",
+            "weapon_type": "hammer",
+            "rarity": "common",
+            "damage": 30,
+            "emoji": "\ud83d\udd28",
+            "name": "Common Hammer",
+            "description": "Massive damage but very slow",
+            "value": 106,
+            "created_at": "2025-08-16T14:17:41.234209+00:00",
+            "market_id": "market_6",
+            "cost": 10908,
+            "stock": 1
+        },
+        {
+            "type": "armor",
+            "armor_type": "bone",
+            "rarity": "common",
+            "health": 40,
+            "emoji": "\ud83d\udc80",
+            "name": "Common Bone Armor",
+            "description": "Dark armor with necromantic properties",
+            "value": 112,
+            "created_at": "2025-08-16T14:17:41.234223+00:00",
+            "market_id": "market_7",
+            "cost": 8450,
+            "stock": 3
+        },
+        {
+            "type": "weapon",
+            "weapon_type": "dagger",
+            "rarity": "common",
+            "damage": 10,
+            "emoji": "\ud83d\udde1\ufe0f",
+            "name": "Common Dagger",
+            "description": "Fast weapon with low damage but high critical chance",
+            "value": 191,
+            "created_at": "2025-08-16T14:17:41.234231+00:00",
+            "market_id": "market_8",
+            "cost": 9476,
+            "stock": 2
+        },
+        {
+            "name": "Spirit Essence",
+            "type": "loot",
+            "rarity": "common",
+            "description": "A valuable common loot item",
+            "market_id": "market_9",
+            "cost": 3526,
+            "stock": 1,
+            "value": 3526
+        },
+        {
+            "name": "Simple Mana Elixir",
+            "type": "consumable",
+            "rarity": "common",
+            "description": "A powerful common consumable",
+            "market_id": "market_10",
+            "cost": 1947,
+            "stock": 3,
+            "value": 1947
+        }
+    ],
+    "last_update": 1755353861.2340727
+}

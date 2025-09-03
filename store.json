@@ -1,0 +1,191 @@
+{
+  "axis of wealth": {
+      "price": 450000,
+      "description": "The axis of wealth, gives you 2k collect",
+      "stock": 7,
+      "min_rank": 0,
+      "rarity": "rare",
+      "effects": {
+          "add_role": 1355119735154540552
+      },
+      "usable": true,
+      "consumable": true
+  },
+  "axis of love and virtue": {
+      "price": 500000,
+      "description": "The axis of love and virtue, gives you a 2k collect",
+      "stock": 9,
+      "min_rank": 0,
+      "rarity": "rare",
+      "effects": {
+          "add_role": 1360269383687082246
+      },
+      "usable": true,
+      "consumable": true
+  },
+  "axis of health": {
+      "price": 400000,
+      "description": "The axis of health, gives a 5% XP boost",
+      "stock": 6,
+      "min_rank": 0,
+      "rarity": "rare",
+      "effects": {
+          "add_role": 1360668572614918325
+      },
+      "usable": true,
+      "consumable": true
+  },
+  "immortal beast king role": {
+      "price": 6000000,
+      "description": "Makes you an immortal beast king. Gives cosmetic role",
+      "stock": 10,
+      "min_rank": 0,
+      "rarity": "legendary",
+      "effects": {
+          "add_role": 1386326163814617139
+      },
+      "usable": true,
+      "consumable": true
+  },
+  "reroll": {
+      "price": 100000,
+      "description": "gives you a single reroll",
+      "stock": 0,
+      "min_rank": 0,
+      "rarity": "tspmo",
+      "usable": true,
+      "instant_use": true,
+      "effects": {
+          "immortal_art_reroll": 1
+      },
+      "consumable": true
+  },
+  "liberation law talent": {
+      "price": 500000,
+      "description": "liberation law talent, gives you 10k collect for a week",
+      "stock": 998,
+      "min_rank": 0,
+      "rarity": "epic",
+      "usable": true,
+      "instant_use": false,
+      "effects": {
+          "temp_role": {
+              "role_id": 1366467190823325766,
+              "duration_days": 7
+          }
+      },
+      "consumable": true
+  },
+  "axis of longevity": {
+      "price": 450000,
+      "description": "axis of longevity, gives you a slight luck boost",
+      "stock": 8,
+      "min_rank": 0,
+      "rarity": "epic",
+      "effects": {
+          "add_role": 1360617657732173984
+      },
+      "usable": true,
+      "consumable": true
+  },
+  "qi building pill": {
+      "price": 10000,
+      "description": "Gives you 200 XP on usage (xp of owner of immortal cultivation not this bot$",
+      "stock": 10,
+      "min_rank": 0,
+      "rarity": "rare",
+      "effects": {
+          "command": "200"
+      },
+      "limit_uses": {
+          "daily": 3
+      },
+      "usable": true,
+      "consumable": true
+  },
+  "azure_dragon": {
+      "name": "Azure Dragon",
+      "price": 1000000,
+      "win_chance": 75,
+      "rarity": "legendary",
+      "description": "A majestic azure dragon spirit beast with high combat potential",
+      "spirit_animal": true,
+      "type": "spirit_beast",
+      "effects": {
+          "spirit_animal": true
+      },
+      "usable": true,
+      "sellable": true,
+      "tradeable": true,
+      "stock": 5,
+      "min_rank": 0
+  },
+  "crimson_phoenix": {
+      "name": "Crimson Phoenix",
+      "price": 800000,
+      "win_chance": 70,
+      "rarity": "epic",
+      "description": "A fiery phoenix spirit beast that rises from ashes",
+      "spirit_animal": true,
+      "type": "spirit_beast",
+      "effects": {
+          "spirit_animal": true
+      },
+      "usable": true,
+      "sellable": true,
+      "tradeable": true,
+      "stock": 8,
+      "min_rank": 0
+  },
+  "shadow_wolf": {
+      "name": "Shadow Wolf",
+      "price": 500000,
+      "win_chance": 65,
+      "rarity": "rare",
+      "description": "A stealthy shadow wolf spirit beast with night vision",
+      "spirit_animal": true,
+      "type": "spirit_beast",
+      "effects": {
+          "spirit_animal": true
+      },
+      "usable": true,
+      "sellable": true,
+      "tradeable": true,
+      "stock": 12,
+      "min_rank": 0
+  },
+  "golden_tiger": {
+      "name": "Golden Tiger",
+      "price": 300000,
+      "win_chance": 60,
+      "rarity": "uncommon",
+      "description": "A fierce golden tiger spirit beast with raw power",
+      "spirit_animal": true,
+      "type": "spirit_beast",
+      "effects": {
+          "spirit_animal": true
+      },
+      "usable": true,
+      "sellable": true,
+      "tradeable": true,
+      "stock": 15,
+      "min_rank": 0
+  },
+  "silver_fox": {
+      "name": "Silver Fox",
+      "price": 150000,
+      "win_chance": 55,
+      "rarity": "common",
+      "description": "A cunning silver fox spirit beast with intelligence",
+      "spirit_animal": true,
+      "type": "spirit_beast",
+      "effects": {
+          "spirit_animal": true
+      },
+      "usable": true,
+      "sellable": true,
+      "tradeable": true,
+      "stock": 20,
+      "min_rank": 0
+  }
+}

@@ -1,0 +1,54 @@
+{
+    "12345": {
+        "cash": 100,
+        "bank": 50
+    },
+    "827400323151953941": {
+        "cash": 0,
+        "bank": 0,
+        "last_cultivate": null,
+        "last_collect": null,
+        "last_job_timestamp": 0,
+        "last_battle": 1756042772.1183093
+    },
+    "1155755942047121458": {
+        "cash": 0,
+        "bank": 0,
+        "last_cultivate": null,
+        "last_collect": null,
+        "last_job_timestamp": 0,
+        "last_battle": 1756220972.4350762
+    },
+    "1392601921784774766": {
+        "cash": 0,
+        "bank": 0,
+        "last_cultivate": null,
+        "last_collect": null,
+        "last_job_timestamp": 0,
+        "last_battle": 1756220980.7938232
+    },
+    "1092887718909968435": {
+        "cash": 0,
+        "bank": 0,
+        "last_cultivate": null,
+        "last_collect": null,
+        "last_job_timestamp": 0,
+        "last_battle": 1756221036.6488883
+    },
+    "862701067576541185": {
+        "cash": 0,
+        "bank": 0,
+        "last_cultivate": null,
+        "last_collect": null,
+        "last_job_timestamp": 0,
+        "last_battle": 1756221039.3047419
+    },
+    "722455265932345395": {
+        "cash": 0,
+        "bank": 0,
+        "last_cultivate": null,
+        "last_collect": null,
+        "last_job_timestamp": 0,
+        "last_battle": 1756226125.1513193
+    }
+}

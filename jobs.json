@@ -1,0 +1,22 @@
+{
+    "Farmer": [
+        100,
+        200
+    ],
+    "Blacksmith": [
+        150,
+        250
+    ],
+    "Alchemist": [
+        200,
+        300
+    ],
+    "Merchant": [
+        300,
+        400
+    ],
+    "Great Immortal": [
+        100,
+        1000
+    ]
+}
